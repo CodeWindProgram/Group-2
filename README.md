@@ -5,7 +5,7 @@ YashPingale - yash.pingale5@gmail.com
   4. Made styling changes to the changes made by sagar1717.
  
 Sanchita-K10 - sanchitakolambe10@gmail.com
-1.Finalized the layout of the front end with the group members.
+1.Finalized the layout of the front end of the test question page with the group members.
 2. Worked on styling of the  buttons in front end.
 3. Made styling changes to the front end done by sagar1717.
 
