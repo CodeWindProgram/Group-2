@@ -18,3 +18,9 @@ sagar1717- chiliverysagar@gmail.com
   1. Added precise styles to the form which includes hover actions
   2. Buttons 
   3. Added contribution in making it very responsive
+
+YashrajSonawane - yashrajsonawane79@gmail.com
+1.Imported all the necessary libraries from react for header components
+2.Created a Question Header function
+3.Exported default question header function to the question.js component
+
