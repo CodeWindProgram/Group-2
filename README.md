@@ -27,11 +27,11 @@
   2. Created a Question Header function
   3. Exported default question header function to the question.js component
   
-@prathameshsatawase - prathusatawase@gmail.com
+ @prathameshsatawase - prathusatawase@gmail.com
   1.
   2.
   3.
 
-@Jagruti251 - jagu2599@gmail.com
+ @Jagruti251 - jagu2599@gmail.com
 
   1. 
