@@ -40,6 +40,4 @@
  2. Researched about ReactJS, NodeJS, npx, npm.
  3. Finalised layout of front end of the test Question page with team members for further procedure.
  4. Learn about Git working.
- 5. contributed to implement Result section component to QuestionResult.js with @Sanchita-K10 .
-
- 3.
+ 5. contributed to implement Result section component to QuestionResult.js with @Sanchita-K10
