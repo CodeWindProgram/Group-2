@@ -17,7 +17,7 @@
   1. Added precise styles to the form which includes hover actions
   2. Added the styles for the button and also make sured the viewport is not breaking
   3. Added contribution in making it very responsive
-  4. Helped in git procedure 
+  4. Discussed regarding components in react 
 
 **YashrajSonawane** - *yashrajsonawane79@gmail.com*
   1. Imported all the necessary libraries from react for header components
