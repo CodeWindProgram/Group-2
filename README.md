@@ -31,13 +31,16 @@
   
   
 **@prathameshsatawase** - *prathusatawase@gmail.com*
-1.
-2.
-3.
+1. Firstly, Discussed With Group Memebers In What Direction We All Will Researched.
+2. I Worked on Quetionform Section of The Project
+3. Use Classbase Component(props)
+4. Also Use Radio And Form.Field
+5. Discuss Problems and Errors With Group Members
 
 **@Jagruti251** - *jagu2599@gmal.com*
  1. Firstly, discussed with group memebers in what direction we all will researched.
  2. Researched about ReactJS, NodeJS, npx, npm.
  3. Finalised layout of front end of the test Question page with team members for further procedure.
  4. Learn about Git working.
- 5. contributed to implement Result section component to QuestionResult.js with @Sanchita-K10
+ 5. contributed to implement Result section component to QuestionResult.js with @Sanchita-K10 .
+
