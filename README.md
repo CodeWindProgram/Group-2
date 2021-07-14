@@ -13,7 +13,7 @@
   3. Made styling changes to the front end done by sagar1717.
   4. Made some changes in the Result section.
 
-**sagar1717** - *chiliverysagar@gmail.com*
+**@sagar1717** - *chiliverysagar@gmail.com*
   1. Added precise styles to the form which includes hover actions
   2. Buttons 
   3. Added contribution in making it very responsive
@@ -30,9 +30,17 @@
   4.  Created all the documentation part regarding internship.
   
   
-**prathameshsatawase** - *prathusatawase@gmail.com*
+**@prathameshsatawase** - *prathusatawase@gmail.com*
 1.
 2.
 3.
 
-**Jagruti251** - *jagu2599@gmal.com*
+**@Jagruti251** - *jagu2599@gmal.com*
+ 1.Firstly, discussed with group memebers in what direction we all will researched.
+ 2.Researched about ReactJS, NodeJS, npx, npm.
+ 3.Finalised layout of front end of the test Question page with team members for further procedure.
+ 4.Made some changes to the frontend done by @sagar1717 like adding spaces between elements to make the page appear more clean.
+ 5.contributed to implement Result section component to QuestionResult.js with @Sanchita-K10
+ 
+
+ 3.
