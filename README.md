@@ -60,6 +60,12 @@
 2. Helped in making responsive
 3. Helped in finalising the frontend
 
+**Priyakesarkar** - * priyakesarkar1999@gmail.com*
+1. Worked on making pages more informative and impressive
+2. Suggested some new ideas to work on layout of the page
+3. Created all the work regarding the layout of the page
+4. Finalized the layout of the page with the group members for further
+
 **Papiha** - *papihalad99@gmail.com*
 
 1. discuss with group members in what direction we all will researched
@@ -67,3 +73,4 @@
 3. added contribution in making it more responsible
 4. discuss problem and errors with group members
 5. work on making some changes in final section
+
