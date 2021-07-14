@@ -30,7 +30,7 @@
   4.  Created all the documentation part regarding internship.
   
   
-**@prathameshsatawase** - *prathusatawase@gmail.com*
+**prathameshsatawase** - *prathusatawase@gmail.com*
 1. Firstly, Discussed With Group Memebers In What Direction We All Will Researched.
 2. I Worked on Quetionform Section of The Project
 3. Use Classbase Component(props)
