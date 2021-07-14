@@ -17,6 +17,7 @@
   1. Added precise styles to the form which includes hover actions
   2. Added the styles for the button and also make sured the viewport is not breaking
   3. Added contribution in making it very responsive
+  4. Helped in git procedure 
 
 **YashrajSonawane** - *yashrajsonawane79@gmail.com*
   1. Imported all the necessary libraries from react for header components
@@ -53,3 +54,8 @@
 1. Implemented the desired Question accordingly.
 2. Took support of varadraaj in sharing the same prespective.
 3. finalized all the Questions in question.js
+
+**PrajwalBharti** - *prajvalvb@gmail.com*
+1. Added contribution in css 
+2. Helped in making responsive
+3. Helped in finalising the frontend
