@@ -1,10 +1,11 @@
-YashPingale - yash.pingale5@gmail.com
+@YashPingale - yash.pingale5@gmail.com
+
   1. Discussed the design of the front end with group members.
   2. Worked on the Buttons in the front end and animated them with hover effect along with Sanchita-K10.
   3. Made styling changes in the Result section after discussing it with group members. 
   4. Made styling changes to the changes made by sagar1717.
  
-Sanchita-K10 - sanchitakolambe10@gmail.com
+@Sanchita-K10 - sanchitakolambe10@gmail.com
   
   1.Finalized the layout of the front end of the test question page with the group members for further execution.
   
@@ -14,21 +15,23 @@ Sanchita-K10 - sanchitakolambe10@gmail.com
  
   4. Made some changes in the Result section.
 
-sagar1717- chiliverysagar@gmail.com
+@sagar1717- chiliverysagar@gmail.com
+
   1. Added precise styles to the form which includes hover actions
   2. Buttons 
   3. Added contribution in making it very responsive
 
-YashrajSonawane - yashrajsonawane79@gmail.com
+@YashrajSonawane - yashrajsonawane79@gmail.com
+
   1. Imported all the necessary libraries from react for header components
   2. Created a Question Header function
   3. Exported default question header function to the question.js component
   
-prathameshsatawase - prathusatawase@gmail.com
-1.
-2.
-3.
+@prathameshsatawase - prathusatawase@gmail.com
+  1.
+  2.
+  3.
 
 @Jagruti251 - jagu2599@gmail.com
 
-1. 
+  1. 
