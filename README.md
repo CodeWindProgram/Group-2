@@ -62,8 +62,8 @@
 
 **Papiha** - *papihalad99@gmail.com*
 
-1.discuss with group members in what direction we all will researched
-2.suggesting different ideas
-3.added contribution in making it more responsible
-4.discuss problem and errors with group members
-5.work on making some changes in final section
+1. discuss with group members in what direction we all will researched
+2. suggesting different ideas
+3. added contribution in making it more responsible
+4. discuss problem and errors with group members
+5. work on making some changes in final section
