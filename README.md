@@ -1,5 +1,5 @@
 **Problem Statement :**
-# Develop Question Paper Page
+# Develop Test Question Paper Page
 
 **YashPingale** - *yash.pingale5@gmail.com*
   1. Discussed the design of the front end with group members.
@@ -15,7 +15,7 @@
 
 **@sagar1717** - *chiliverysagar@gmail.com*
   1. Added precise styles to the form which includes hover actions
-  2. Buttons 
+  2. Added the styles for the button and also make sured the viewport is not breaking
   3. Added contribution in making it very responsive
 
 **YashrajSonawane** - *yashrajsonawane79@gmail.com*
