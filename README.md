@@ -44,3 +44,12 @@
  4. Learn about Git working.
  5. contributed to implement Result section component to QuestionResult.js with @Sanchita-K10 .
 
+**varadraaj** - *varadpatil12@gmail.com*
+1. Worked on the Question and Choices part in question.js along with Shamsher01 .
+2. Developed required skill level Questions.
+3. Tried and Shared prespective of the student.
+
+**Shamsher01** - *shamshermulani2001@gmail.com*
+1. Implemented the desired Question accordingly.
+2. Took support of varadraaj in sharing the same prespective.
+3. finalized all the Questions in question.js
