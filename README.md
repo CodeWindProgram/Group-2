@@ -10,8 +10,8 @@
 **Sanchita-K10** - *sanchitakolambe10@gmail.com*  
   1. Researched about the given problem statement and discussed it with the group members for better understanding.
   2. Finalized the layout of the front end of the test question page with the group members for further execution.
-  3. Worked on styling of the  buttons in the front end part along with YashPingale.
-  4. Made styling changes to the front end done by sagar1717.
+  3. Worked on styling of the  buttons in the front end part along with @YashPingale.
+  4. Made styling changes to the front end done by @sagar1717.
   5. Made some changes in the Result section.
 
 **@sagar1717** - *chiliverysagar@gmail.com*
